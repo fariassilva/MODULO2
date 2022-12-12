@@ -1,6 +1,14 @@
+import Title from "../src/comonents/title/Title"
+
 function HomePage () {
   return(
-    <div>hello wordl  Nextjs Reactjs </div>
+    <div>
+      <Title/>
+      <Title/>
+      <Title/>
+      
+      hello wordl  Nextjs Reactjs
+    </div>
   )
   
 }
