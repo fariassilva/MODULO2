@@ -3,11 +3,10 @@ import Title from "../src/comonents/title/Title"
 function HomePage () {
   return(
     <div>
-      <Title/>
-      <Title/>
-      <Title/>
-      
-      hello wordl  Nextjs Reactjs
+      <Title> um titulo</Title>
+      <p>um paragrafo qualquer</p>
+      <Title>outro titulo</Title>
+      <p>outro paragrafo qualquer</p>
     </div>
   )
   
